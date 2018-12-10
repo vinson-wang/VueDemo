@@ -1,3 +1,3 @@
 # VueDemo
 
-Study Vue.js£¡
+Study Vue.js!
